@@ -22,7 +22,7 @@
     "@angular/router": "~8.2.7",
     "boostrap": "^2.0.0",
     "bootstrap": "^4.4.1",
-    "firebase": "^7.7.0",
+    "firebase": "^10.9.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.0",
     "ngx-spinner": "^8.1.0",
